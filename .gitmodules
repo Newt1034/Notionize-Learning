@@ -1,3 +1,6 @@
 [submodule "notion-sdk-js"]
 	path = notion-sdk-js
 	url = https://github.com/makenotion/notion-sdk-js
+[submodule "youtube-api-client"]
+	path = youtube-api-client
+	url = git@github.com:google/google-api-javascript-client.git
